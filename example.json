@@ -1,0 +1,6 @@
+{
+  "name": "mongodb-mcp-vscode",
+  "engine": "mongodb",
+  "slug": "mongodb",
+  "kind": "mcp"
+}
